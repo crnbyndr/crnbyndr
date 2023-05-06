@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java and game development with C#
 - 📫 How to reach me:
 -  LinkedIn : https://www.linkedin.com/in/ceren-b-3b5040249/ 
+-  Mail: cerenbayindir10@gmail.com
 
 <!---
 crnbyndr/crnbyndr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
